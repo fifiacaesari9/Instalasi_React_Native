@@ -1,0 +1,38 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Afiq",
+      "nim": "21/789456/SV/22222",
+      "kelas": "A",
+      "jeniskelamin": "Laki=Laki",
+      "icon": "user",
+      "color": "#FF0000"
+    },
+    {
+      "nama": "Fifia",
+      "nim": "21/477360/SV/19175",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "icon": "coffee",
+      "color": "#FF0000",
+      "id": 2
+    },
+    {
+      "nama": "Mingyu",
+      "nim": "22/45699/PT/33644",
+      "kelas": "B",
+      "icon": "dragon",
+      "color": "#E6E260",
+      "id": 5
+    },
+    {
+      "nama": "Taehyung",
+      "nim": "23/444692/SV/55566",
+      "kelas": "A",
+      "icon": "user-alt-slash",
+      "color": "#C09EFF",
+      "id": 6
+    }
+  ]
+}
